@@ -1,0 +1,169 @@
+{
+    "accounts": [
+        {
+            "company": "abbvie",
+            "name": "AbbVie",
+            "rooms": [
+                "AbbVieCollab"
+            ],
+            "credentials": {
+                "username": "",
+                "password": "3698"
+            },
+            "RAUMpasscode": "123456",
+            "idmappings": []
+        },
+        {
+            "company": "unternehmensberater wittmann",
+            "name": "unternehmensberater wittmann",
+            "rooms": [
+                "berater"
+            ],
+            "presentation": "https://slides.com/blanx/wittmann/live?token=2-rl46iz",
+            "credentials": {
+                "username": "",
+                "password": "7896"
+            },
+            "RAUMpasscode": "123456",
+            "idmappings": [
+                {
+                    "user": "Gerhard.Wittmann",
+                    "name": "Gerhard Wittmann"
+                },
+                {
+                    "user": "Guest_a",
+                    "name": "Lukas Jentsch"
+                },
+                {
+                    "user": "Wittmann1",
+                    "name": "Wittmann1"
+                },
+                {
+                    "user": "Wittmann2",
+                    "name": "Wittmann2"
+                },
+                {
+                    "user": "Wittmann3",
+                    "name": "Wittmann3"
+                },
+                {
+                    "user": "Wittmann4",
+                    "name": "Wittmann4"
+                }
+            ]
+        },
+        {
+            "company": "EvrBit",
+            "name": "EvrBit",
+            "rooms": [
+                "EvrBit"
+            ],
+            "credentials": {
+                "username": "",
+                "password": "4536"
+            },
+            "RAUMpasscode": "123456",
+            "idmappings": []
+        },
+        {
+            "company": "i22",
+            "name": "i22",
+            "rooms": [
+                "i22"
+            ],
+            "videodisplay": "https://dev.blanx.de/roomcollab/2486/TelekomCase.mp4",
+            "videodisplayposter": "https://dev.blanx.de/roomcollab/2486/i22_logo_1920x1080.png",
+            "presentation": "https://slides.com/blanx/workraum-i22/live?token=kHyfnYIu",
+            "credentials": {
+                "username": "",
+                "password": "2486"
+            },
+            "RAUMpasscode": "123456",
+            "idmappings": [
+                {
+                    "user": "max.pattern.i22",
+                    "name": "Max Pattern i22"
+                },
+                {
+                    "user": "kolja.pitz",
+                    "name": "Kolja Pitz i22"
+                },
+                {
+                    "user": "michaeltobehn",
+                    "name": "Michael Tobehn i22"
+                }
+            ]
+        },
+        {
+            "company": "Sony Med",
+            "name": "Sony Med",
+            "rooms": "Sony",
+            "videodisplay": "https://dev.blanx.de/roomcollab/6874/BlanxSonyMedicalSolutions.mp4",
+            "videodisplayposter": "https://dev.blanx.de/roomcollab/6874/sony_logo.png",
+            "presentation": "https://slides.com/blanx/workraum/live?token=DqgPxIxl",
+            "credentials": {
+                "username": "",
+                "password": "6874"
+            },
+            "RAUMpasscode": "123456",
+            "idmappings": [
+                {
+                    "user": "BXVR_059",
+                    "name": "Ludger Philippsen"
+                }
+            ]
+        },
+        {
+            "company": "Blanx Intern",
+            "name": "Name",
+            "rooms": "a",
+            "videodisplay": "https://dev.blanx.de/raum/2589/CFR & DCFR.pdf",
+            "videodisplayposter": "https://dev.blanx.de/raum/2589/report.pdf",
+            "presentation": "https://slides.com/blanx/il_s02/live?token=VOJHZLga",
+            "RAUMpasscode": "123456",
+            "credentials": {
+                "username": "",
+                "password": "2589"
+            },
+            "idmappings": [
+                {
+                    "user": "Kristian.Peran",
+                    "name": "Kristian Peran"
+                },
+                {
+                    "user": "dominik.ccaa",
+                    "name": "Dominik Schmidt"
+                },
+                {
+                    "user": "Liebherr02",
+                    "name": "Liebherr User1"
+                }
+            ],
+            "waitforhost": [
+                ""
+            ]
+        },
+        {
+            "company": "Blanx Intern",
+            "name": "Name 2",
+            "rooms": "ert",
+            "videodisplay": "https://dev.blanx.de/raum/1478/report.pdf",
+            "videodisplayposter": "https://dev.blanx.de/HardwareID.png",
+            "presentation": "https://www.office.com/",
+            "RAUMpasscode": "123456",
+            "credentials": {
+                "username": "",
+                "password": "1478"
+            },
+            "idmappings": [
+                {
+                    "user": "PickaBooh",
+                    "name": "Steffen Reimer"
+                }
+            ],
+            "waitforhost": [
+                ""
+            ]
+        }
+    ]
+}
